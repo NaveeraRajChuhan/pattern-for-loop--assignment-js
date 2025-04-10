@@ -12,7 +12,7 @@
 
 
 
-let rows = 15;
+let rows = 14;
 
 // pattern variable carries the final pattern in string format
 let pattern = "";
